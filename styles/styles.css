@@ -51,54 +51,6 @@ body {
   width: 500px;
 }
 
-/* projects styles */
-.projects {
-  margin-bottom: 60px;
-}
-
-.title {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 22px;
-  line-height: 27px;
-  color: #000000;
-  margin-bottom: 30px;
-}
-
-.projects-list {
-  padding: 0;
-  margin-left: 15px;
-}
-
-.project-item {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-}
-
-.project,
-.project-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-}
-
-.project-link {
-  margin-left: 10px;
-}
-
-.project-bracket {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #000000;
-}
-
 /* work styles */
 
 .work {
@@ -128,13 +80,6 @@ body {
   color: #000000;
   margin-bottom: 10px;
 }
-/* .line {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
-  color: #000000;
-} */
 .work-list {
   padding: 0;
   margin-left: 15px;
@@ -226,15 +171,6 @@ body {
   line-height: 27px;
   margin-bottom: 10px;
 }
-
-/* .contact-type {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
-  color: #ffffff;
-  margin-right: 5px;
-} */
 
 .contact-link {
   font-style: normal;
